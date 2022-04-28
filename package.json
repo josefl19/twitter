@@ -1,0 +1,25 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "practica twitter - launchX",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josefl19/twitter.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "josefl19",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josefl19/twitter/issues"
+  },
+  "homepage": "https://github.com/josefl19/twitter#readme",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
+}
